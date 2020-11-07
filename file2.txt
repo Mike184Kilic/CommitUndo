@@ -1,2 +1,3 @@
 Line1 in file2.txt
-Line2 in file1.txt
+Line2 in file2.txt
+Line3 in file2.txt
